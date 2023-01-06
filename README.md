@@ -1,4 +1,4 @@
-# Using Spatial Statistics to Investigate Factors Affecting Crime Rate in Taipei City
+# Analyzing Spatial Criminal Data in Taipei City using Generalized Linear Mixed Models
 
 Motivation
 
